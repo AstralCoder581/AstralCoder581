@@ -1,4 +1,13 @@
 ### Hi there 👋
+# I'm ABHISHEK V K<br>
+
+### - I am a coder by hobby, student by profession and funny by character.
+### - Like to meet new people, collaborate and contribute.
+### - Learning and exploring stuffs in Machine Learning and Deep Learning.
+### - I would be glad to help any if needed.<br>
+
+#### Ok that's all See you all!!
+
 
 <!--
 **AstralCoder581/AstralCoder581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
