@@ -7,6 +7,11 @@
 ### - I would be glad to help any if needed.<br>
 
 #### Ok that's all See you all!!
+<div align="center">
+<a href="https://github.com/AstralCoder581">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AstralCoder581&theme=highcontrast" alt="GitHub Streak" /></a>
+</a>
+</div>
 
 
 <!--
