@@ -12,6 +12,13 @@
 <a href="https://github.com/AstralCoder581">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AstralCoder581&theme=highcontrast" alt="GitHub Streak" /></a>
 </a>
+   
+![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=AstralCoder581&show_icons=true&include_all_commits=true&theme=radical)
+
+![Abhishek V K Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralCoder581&layout=compact&theme=radical)
+
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AstralCoder581&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 
