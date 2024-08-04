@@ -2,6 +2,7 @@
 # I'm ABHISHEK V K<br>
 
 ### - I am a coder by hobby, student by profession and funny by character.
+### - I am interested in Research and technical fields like Machine Learning, LLM's, Deep Learning.
 ### - Like to meet new people, collaborate and contribute.
 ### - Learning and exploring stuffs in Machine Learning and Deep Learning.
 ### - I would be glad to help any if needed.<br>
